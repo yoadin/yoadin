@@ -30,8 +30,6 @@
 Feel free to connect:  
 [GitHub](https://github.com/yoadin) | [Email](kalkidanadro11@gmail.com) 
 
-##fun
-![BTS GIF](https://media.giphy.com/media/3ohs7KViFroQfjLR4g/giphy.gif)
 
 
 ---
