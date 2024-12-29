@@ -1,4 +1,40 @@
-## Hi there 👋
+
+# Hi, I'm Yoakin! 👋  
+
+🎓 **Software Engineering Student**  
+💻 **Learning:** Java and exploring software development basics  
+🎵 **Fun Fact:** Huge BTS fan 💜  
+🚀 **Goals:** Build something impactful and grow as a developer  
+
+---
+
+### 🛠️ **Technologies I'm Learning**  
+- Java  
+- Git and GitHub  
+
+---
+
+### 🌟 **What I'm Working On**  
+- A small Java project to sharpen my skills  
+- Exploring creative ways to make learning fun  
+
+---
+
+### 🎶 **Hobbies**  
+- Listening to BTS (seriously, they’re amazing)  
+- Reading and dreaming about future adventures  
+
+---
+
+### 📫 **How to Reach Me**  
+Feel free to connect:  
+[GitHub](https://github.com/yoadin) | [Email](kalkidanadro11@gmail.com) 
+
+##fun
+![BTS GIF](https://media.giphy.com/media/3ohs7KViFroQfjLR4g/giphy.gif)
+
+
+---
 
 <!--
 **yoadin/yoadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
