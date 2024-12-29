@@ -1,5 +1,5 @@
 
-# Hi, I'm Yoakin! 👋  
+# Hi, I'm Kalkidan! 👋  
 
 🎓 **Software Engineering Student**  
 💻 **Learning:** Java and exploring software development basics  
