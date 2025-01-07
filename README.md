@@ -15,7 +15,8 @@
 ---
 
 ### 🌟 **What I'm Working On**  
-- A small Java project to sharpen my skills  
+- A small Java project to sharpen my skills
+- A small HTML project to build my skills 
 - Exploring creative ways to make learning fun  
 
 ---
