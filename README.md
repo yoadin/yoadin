@@ -10,13 +10,15 @@
 
 ### 🛠️ **Technologies I'm Learning**  
 - Java  
-- Git and GitHub  
+- Git and GitHub
+- PHP
+- HTML, CSS, Javascript 
 
 ---
 
 ### 🌟 **What I'm Working On**  
-- A small Java project to sharpen my skills
-- A small HTML project to build my skills 
+- A small C project to sharpen my skills
+- A small PHP project to build my skills 
 - Exploring creative ways to make learning fun  
 
 ---
