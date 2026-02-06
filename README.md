@@ -2,9 +2,9 @@
 # Hi, I'm Kalkidan! 👋  
 
 🎓 **Software Engineering Student**  
-💻 **Learning:** Java and exploring software development basics  
+💻 **Learning:** PHP, JavaScript <!-- and exploring software development basics -->
 🎵 **Fun Fact:** Huge BTS fan 💜  
-🚀 **Goals:** Build something impactful and grow as a developer  
+🚀 **Goals:** Build something impactful and grow as a developer and Human being
 
 ---
 
@@ -12,12 +12,13 @@
 - Java  
 - Git and GitHub
 - PHP
-- HTML, CSS, Javascript 
+- HTML, CSS, Javascript
+- C 
 
 ---
 
 ### 🌟 **What I'm Working On**  
-- A small C project to sharpen my skills
+ <!-- - A small C project to sharpen my skills -->
 - A small PHP project to build my skills 
 - Exploring creative ways to make learning fun  
 
@@ -25,7 +26,8 @@
 
 ### 🎶 **Hobbies**  
 - Listening to BTS (seriously, they’re amazing)  
-- Reading and dreaming about future adventures  
+- Reading
+- Binge watching Movies 
 
 ---
 
