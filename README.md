@@ -2,7 +2,7 @@
 # Hi, I'm Kalkidan! 👋  
 
 🎓 **Software Engineering Student**  
-💻 **Learning:** PHP, JavaScript <!-- and exploring software development basics -->
+💻 **Learning:** PHP, JavaScript <!-- and exploring software development basics -->    
 🎵 **Fun Fact:** Huge BTS fan 💜  
 🚀 **Goals:** Build something impactful and grow as a developer and Human being
 
