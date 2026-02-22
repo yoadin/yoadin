@@ -13,13 +13,16 @@
 - Git and GitHub
 - PHP
 - HTML, CSS, Javascript
-- C 
+- Python
+- .NET
 
 ---
 
 ### 🌟 **What I'm Working On**  
  <!-- - A small C project to sharpen my skills -->
-- A small PHP project to build my skills 
+- Simple Login Authentication
+- Number guessing game
+- different site Cloe UI
 - Exploring creative ways to make learning fun  
 
 ---
