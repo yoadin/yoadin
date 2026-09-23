@@ -13,8 +13,10 @@
 - Git and GitHub
 - PHP
 - HTML, CSS, Javascript
+- React
 - Python
 - .NET
+- Dart/Flutter
 
 ---
 
@@ -23,14 +25,18 @@
 - Simple Login Authentication
 - Number guessing game
 - different site Cloe UI
-- Exploring creative ways to make learning fun  
+- Simple Contact List
+- Exploring creative ways to make learning fun
+-   
 
 ---
 
 ### 🎶 **Hobbies**  
-- Listening to BTS (seriously, they’re amazing)  
+- Listening to BTS (seriously, they’re amazing)
+- Chess  
 - Reading
-- Binge watching Movies 
+- Binge watching Movies/series
+   
 
 ---
 
