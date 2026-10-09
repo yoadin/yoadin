@@ -11,12 +11,13 @@
 ### 🛠️ **Technologies I'm Learning**  
 - Java  
 - Git and GitHub
-- PHP
+- PHP/Laravel
 - HTML, CSS, Javascript
 - React
 - Python
 - .NET
 - Dart/Flutter
+- NextJS
 
 ---
 
@@ -26,8 +27,8 @@
 - Number guessing game
 - different site Cloe UI
 - Simple Contact List
+- MedTrack
 - Exploring creative ways to make learning fun
--   
 
 ---
 
